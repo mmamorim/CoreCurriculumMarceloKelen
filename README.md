@@ -1,6 +1,6 @@
 ## Core Curriculum 2022/2 
 #### Professores
-1. <img width="32" src="https://user-images.githubusercontent.com/7382357/162556478-61a0ff1c-aaba-48ff-9d1b-e9adfb30e6ac.png">
+1. <img width="32" src="https://lh3.googleusercontent.com/a-/AOh14Gh2Vk-hOGc8pi4kyfks1Pvzo4PJ4Irc_qb_S6M=s32-c">
  Marcelo Amorim (Quinta-feira)
 2. Kelen Cristina Sant'Anna de Lima (Sexta-feira)
 

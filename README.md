@@ -19,9 +19,18 @@ RA | Nome | IEs
 
 RA | Nome | IEs
 --- | --- | ---
-`` | `` | ``
+`122112007` | `Lucas Eduardo Sebold` | `UNISOCIESC`
+`122115114` | `Eric Ruan Capraro` | `UNISOCIESC`
+`122115712` | `Rafael Teixeira` | `UNISOCIESC`
+`122114516` | `Hanna Ferreira Müller` | `UNISOCIESC`
+`122114489` | `Thiago Henrique da Silva` | `UNISOCIESC`
+`122111641` | `Patrick eduado Alves` | `UNISOCIESC`
+`122115729` | `Robert Willian de souza` | `UNISOCIESC`
+`122115199` | `Rodrigo Felipe de Toni Grave` | `UNISOCIESC`
+`122110108` | `Beatriz Bueno Pollyak` | `UNISOCIESC`
+`122115149` | `Gabriel Machado` | `UNISOCIESC`
 
-> ***Grupo 2***
+> ***Grupo 3***
 
 RA | Nome | IEs
 --- | --- | ---

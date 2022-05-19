@@ -1,3 +1,3 @@
-# Core Curriculum 2022/2 
-## Professores
-Marcelo Kelen
+## Core Curriculum 2022/2 
+### Professores
+  Marcelo Kelen

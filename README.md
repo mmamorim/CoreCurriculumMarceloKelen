@@ -4,8 +4,8 @@
 2. <img width="22px" src="https://lh3.googleusercontent.com/a-/AOh14GhKrEUKdoE-sewb0LXGDZzYHNhVMsWrBrZMLGghXQ=s32-c"> Kelen Cristina Sant'Anna de Lima (Sexta-feira)
 
 ### GRUPOS A3
-
-`Markdown` | Less | Pretty
+***Grupo 1***
+RA | Nome | IEs
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3  

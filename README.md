@@ -35,6 +35,13 @@ RA | Nome | IEs
 RA | Nome | IEs
 --- | --- | ---
 `` | `` | ``
+`122027870` | `Gilvane Freire da Silva` |
+`92110019` | `Arlan Santos` |
+`122111254` | `Juan david ramirez palacio` |
+`122112337` | `João Sereia` |
+`122125528` | `Guilherme Eduardo Corso Maffei` |
+`` | `Rafael Lins` |
+`` | `Jean Filipi` |
 
 > ***Grupo 2***
 

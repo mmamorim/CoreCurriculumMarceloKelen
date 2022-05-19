@@ -5,7 +5,7 @@
 
 ### GRUPOS A3
 
-<font size="1"> your text </font>
+<font size="0.5"> your text </font>
 
 Markdown | Less | Pretty
 --- | --- | ---

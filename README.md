@@ -58,8 +58,25 @@ RA | Nome | IEs
 
 RA | Nome | IEs
 --- | --- | ---
+`152010883` | `Raphael Carlos` | `Unisociesc`
+`152011754` | `Ana Karoline Popenga` | `Unisociesc`
+`152011250` | `Daniel Ferreira de Almeida` | `Unisociesc`
+`152012065` | `João Paulo Koerich` | `Unisociesc`
+`152011394` | `Eike Caina Hank` | `Unisociesc`
 
+> ***Grupo 6***
 
+RA | Nome | IEs
+--- | --- | ---
+`01072012355` | `Beatriz Sandrini Larroyd` | `UNISUL`
+`00122113026` | `Bruno Guilherme Schneider` | `UNISOCIESC`
+`01071913120` | `Enio Sousa Neto` | `UNISUL`
+`00122216230` | `Enio José de Sousa` | `UNISOCIESC`
+`10722124784` | `Graciély Ferreira` | `UNISUL`
+`00319144789` | `Ingrid Rocha` | `UNA`
+`00152011897` | `Pietro Tomelin Serpa` | `UNISOCIESC`
+`00122019486` | `Victor Augusto Mentz` | `UNISOCIESC`
+`10722123078` | `Vinicius Silva de Chaves` | `UNISUL`
 
  
  

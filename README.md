@@ -7,5 +7,20 @@
 ***Grupo 1***
 RA | Nome | IEs
 --- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3  
+`91920578` | `Tiago da Paixão Ramos` | `Una Sete Lagoas`
+`92010478` | `Erick Rodrigo de Lima Araujo` | `Una Sete Lagoas`
+`91920029` | `Víctor Martins Temistocles` | `Una Sete Lagoas`
+`92010706` | `Italo Wagner Faccio Gonçalves` | `Una Sete Lagoas`
+`91920030` | `Michelle Cristina Silva Carvalo` | `Una Sete Lagoas`
+
+***Grupo 1***
+RA | Nome | IEs
+--- | --- | ---
+`` | `` | ``
+`` | `` | ``
+
+
+ 
+ 
+ 
+ 

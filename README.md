@@ -13,7 +13,8 @@ RA | Nome | IEs
 `92010706` | `Italo Wagner Faccio Gonçalves` | `Una Sete Lagoas`
 `91920030` | `Michelle Cristina Silva Carvalo` | `Una Sete Lagoas`
 
-> Grupo 1
+> ***Grupo 1***
+
 RA | Nome | IEs
 --- | --- | ---
 `` | `` | ``

@@ -4,7 +4,9 @@
 2. <img width="22px" src="https://lh3.googleusercontent.com/a-/AOh14GhKrEUKdoE-sewb0LXGDZzYHNhVMsWrBrZMLGghXQ=s32-c"> Kelen Cristina Sant'Anna de Lima (Sexta-feira)
 
 ### GRUPOS A3
-***Grupo 1***
+
+> ***Grupo 1***
+
 RA | Nome | IEs
 --- | --- | ---
 `91920578` | `Tiago da Paixão Ramos` | `Una Sete Lagoas`
@@ -13,11 +15,25 @@ RA | Nome | IEs
 `92010706` | `Italo Wagner Faccio Gonçalves` | `Una Sete Lagoas`
 `91920030` | `Michelle Cristina Silva Carvalo` | `Una Sete Lagoas`
 
-> ***Grupo 1***
+> ***Grupo 2***
 
 RA | Nome | IEs
 --- | --- | ---
 `` | `` | ``
+
+> ***Grupo 2***
+
+RA | Nome | IEs
+--- | --- | ---
+`` | `` | ``
+
+> ***Grupo 2***
+
+RA | Nome | IEs
+--- | --- | ---
+`` | `` | ``
+
+
 
 
  

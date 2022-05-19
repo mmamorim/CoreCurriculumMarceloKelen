@@ -34,21 +34,30 @@ RA | Nome | IEs
 
 RA | Nome | IEs
 --- | --- | ---
-`` | `` | ``
 `122027870` | `Gilvane Freire da Silva` |
 `92110019` | `Arlan Santos` |
 `122111254` | `Juan david ramirez palacio` |
 `122112337` | `João Sereia` |
 `122125528` | `Guilherme Eduardo Corso Maffei` |
-`` | `Rafael Lins` |
-`` | `Jean Filipi` |
+ | `Rafael Lins` |
+ | `Jean Filipi` |
 
-> ***Grupo 2***
+> ***Grupo 4***
 
 RA | Nome | IEs
 --- | --- | ---
-`` | `` | ``
+`92110530` | `Ana Luiza Silva Gualberto` | `UNA Sete Lagoas`
+`92111013` | `Roberta Eduarda Ricardo Freitas` | `UNA Sete Lagoas`
+`92021361` | `Verônica Silva Moura` | `UNA Sete Lagoas`
+`92110973` | `Maisa Barbosa Figueiredo` | `UNA Sete Lagoas`
+`91820348` | `Breno Gonçalves Blazute` | `Una Sete Lagoas`
+`91820540` | `Andressa Silva Sá` | `UNA Sete Lagoas`
+`91820750` | `Amanda Freitas Rocha` | `UNA Sete Lagoas`
 
+> ***Grupo 5***
+
+RA | Nome | IEs
+--- | --- | ---
 
 
 

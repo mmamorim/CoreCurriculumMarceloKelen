@@ -9,11 +9,12 @@
 
 RA | Nome | IEs
 --- | --- | ---
-`91920578` | `Tiago da Paixão Ramos` | `Una Sete Lagoas`
-`92010478` | `Erick Rodrigo de Lima Araujo` | `Una Sete Lagoas`
-`91920029` | `Víctor Martins Temistocles` | `Una Sete Lagoas`
-`92010706` | `Italo Wagner Faccio Gonçalves` | `Una Sete Lagoas`
-`91920030` | `Michelle Cristina Silva Carvalo` | `Una Sete Lagoas`
+`91920578` | `Tiago da Paixão Ramos` | `UNA Sete Lagoas`
+`92010478` | `Erick Rodrigo de Lima Araujo` | `UNA Sete Lagoas`
+`91920029` | `Víctor Martins Temistocles` | `UNA Sete Lagoas`
+`92010706` | `Italo Wagner Faccio Gonçalves` | `UNA Sete Lagoas`
+`91920030` | `Michelle Cristina Silva Carvalo` | `UNA Sete Lagoas`
+`9211005` | `Américo Batista Garbaccio` | `UNA Sete Lagoas`
 
 > ***Grupo 2***
 
@@ -34,13 +35,13 @@ RA | Nome | IEs
 
 RA | Nome | IEs
 --- | --- | ---
-`122027870` | `Gilvane Freire da Silva` |
-`92110019` | `Arlan Santos` |
-`122111254` | `Juan david ramirez palacio` |
-`122112337` | `João Sereia` |
-`122125528` | `Guilherme Eduardo Corso Maffei` |
- | `Rafael Lins` |
- | `Jean Filipi` |
+`122027870` | `Gilvane Freire da Silva` | ? 
+`92110019` | `Arlan Santos` | ? 
+`122111254` | `Juan david ramirez palacio` | ? 
+`122112337` | `João Sereia` | ? 
+`122125528` | `Guilherme Eduardo Corso Maffei` | ? 
+ ? | `Rafael Lins` | ? 
+ ? | `Jean Filipi` | ? 
 
 > ***Grupo 4***
 
@@ -141,17 +142,6 @@ RA | Nome | IEs
 
 RA | Nome | IEs
 --- | --- | ---
-`91920578` | `Tiago da Paixão Ramos` | `UNA Sete Lagoas`
-`92010478` | `Erick Rodrigo de Lima Araujo` | `UNA Sete Lagoas`
-`91920029` | `Víctor Martins Temistocles` | `UNA Sete Lagoas`
-`92010706` | `Italo Wagner Faccio Gonçalves` | `UNA Sete Lagoas`
-`91920030` | `Michelle Cristina Silva Carvalo` | `UNA Sete Lagoas`
-`9211005` | `Américo Batista Garbaccio` | `UNA Sete Lagoas`
-
-> ***Grupo 13***
-
-RA | Nome | IEs
---- | --- | ---
 `1072012039` | `Daniel Jhonata da Silva` | `Unisul tubarão`
 `1071912340` | `Mauro Moreno Kühl Neto` | `Unisul Tubarão`
 `1072013488` | `Thiago Venancio do Nascimento` | `Unisul Tubarão`
@@ -161,7 +151,7 @@ RA | Nome | IEs
 `1072012879` | `Richard Pereira Cardoso` | `Unisul Tubarão`
 `1072012027` | `Yuri Zabot dos Santos` | `Unisul Tubarão`
 
-> ***Grupo 14***
+> ***Grupo 13***
 
 RA | Nome | IEs
 --- | --- | ---
@@ -171,7 +161,7 @@ RA | Nome | IEs
 `152021133` | `Roger Joel Salazar Guillermo` | `UNISOCIESC BLUMENAU`
 `152020288` | `Lucas Petris` | `UNISOCIESC BLUMENAU`
 
-> ***Grupo 15***
+> ***Grupo 14***
 
 RA | Nome | IEs
 --- | --- | ---
@@ -183,7 +173,7 @@ RA | Nome | IEs
 `817112020` | `Ramon Adller de Santana` | `UniAges`
 `814812020` | `Mateus Santana Carvalho` | `UniAges`
 
-> ***Grupo 16***
+> ***Grupo 15***
 
 RA | Nome | IEs
 --- | --- | ---
@@ -194,7 +184,7 @@ RA | Nome | IEs
 `1072012840` | `Odair Teixeira` | `Unisul`
 `122011169` | `Eduardo Rodrigues Bitencourt` | `Unidociesc Joinville`
 
-> ***Grupo 17***
+> ***Grupo 16***
 
 RA | Nome | IEs
 --- | --- | ---
@@ -203,7 +193,7 @@ RA | Nome | IEs
 `91910670` | `Eric Nicolas Gomes Oliveira` | `Una Sete Lagoas`
 `92020068` | `Luccas Henrique Xavier Silva` | `Una Sete Lagoas`
 
-> ***Grupo 18***
+> ***Grupo 17***
 
 RA | Nome | IEs
 --- | --- | ---

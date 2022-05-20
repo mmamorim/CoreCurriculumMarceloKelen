@@ -35,13 +35,15 @@ RA | Nome | IEs
 
 RA | Nome | IEs
 --- | --- | ---
-`122027870` | `Gilvane Freire da Silva` | ? 
-`92110019` | `Arlan Santos` | ? 
-`122111254` | `Juan david ramirez palacio` | ? 
-`122112337` | `João Sereia` | ? 
-`122125528` | `Guilherme Eduardo Corso Maffei` | ? 
- ? | `Rafael Lins` | ? 
- ? | `Jean Filipi` | ? 
+`122112337` | `João Sereia` | `Unisociesc`
+`92021365` | `Jean Filipe` | `Una Sete Lagoas`
+`61913245` | `Felipe Batista de Almeida dos Santos` | `Una`
+`122027809` | `Rafael Lins` | `Unisociesc`
+`122111254` | `Juan david ramirez palacio` | `Unisociesc`
+`92110019` | `Arlan Santos` | `UNA Sete Lagoas`
+`122027870` | `Gilvane Freire da Silva` | `Unisociesc`
+`122010352` | `Brian Schier Duarte` | `Unisociesc`
+`122125528` | `Guilherme Eduardo Corso Maffei` | `Unisociesc`
 
 > ***Grupo 4***
 
@@ -106,20 +108,6 @@ RA | Nome | IEs
 `92010678` | `Italo José Ribeiro Evangelista` | `UNA Sete Lagoas`
 
 > ***Grupo 9***
-
-RA | Nome | IEs
---- | --- | ---
-`122112337` | `João Sereia` | `Unisociesc`
-`92021365` | `Jean Filipe` | `Una Sete Lagoas`
-`61913245` | `Felipe Batista de Almeida dos Santos` | `Una`
-`122027809` | `Rafael Lins` | `Unisociesc`
-`122111254` | `Juan david ramirez palacio` | `Unisociesc`
-`92110019` | `Arlan Santos` | `UNA Sete Lagoas`
-`122027870` | `Gilvane Freire da Silva` | `Unisociesc`
-`122010352` | `Brian Schier Duarte` | `Unisociesc`
-`122125528` | `Guilherme Eduardo Corso Maffei` | `Unisociesc`
-
-> ***Grupo 10***
 
 RA | Nome | IEs
 --- | --- | ---

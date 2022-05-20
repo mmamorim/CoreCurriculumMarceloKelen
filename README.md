@@ -116,7 +116,7 @@ RA | Nome | IEs
 `1072012742` | `Douglas Vieira Rodrigues` | `Unisul/Tubarão`
 `1072021092` | `Hugo Daniel Baggio Gonzales` | `Unisul/Tubarão`
 
-> ***Grupo 11***
+> ***Grupo 10***
 
 RA | Nome | IEs
 --- | --- | ---
@@ -125,7 +125,7 @@ RA | Nome | IEs
 `172214678` | `DANIEL DE OLIVEIRA` | `UNICURITIBA`
 `172111058` | `MATEUS SCHERREIER KRUPA` | `UNICURITIBA`
 
-> ***Grupo 12***
+> ***Grupo 11***
 
 RA | Nome | IEs
 --- | --- | ---
@@ -138,7 +138,7 @@ RA | Nome | IEs
 `1072012879` | `Richard Pereira Cardoso` | `Unisul Tubarão`
 `1072012027` | `Yuri Zabot dos Santos` | `Unisul Tubarão`
 
-> ***Grupo 13***
+> ***Grupo 12***
 
 RA | Nome | IEs
 --- | --- | ---
@@ -148,7 +148,7 @@ RA | Nome | IEs
 `152021133` | `Roger Joel Salazar Guillermo` | `UNISOCIESC BLUMENAU`
 `152020288` | `Lucas Petris` | `UNISOCIESC BLUMENAU`
 
-> ***Grupo 14***
+> ***Grupo 13***
 
 RA | Nome | IEs
 --- | --- | ---
@@ -160,7 +160,7 @@ RA | Nome | IEs
 `817112020` | `Ramon Adller de Santana` | `UniAges`
 `814812020` | `Mateus Santana Carvalho` | `UniAges`
 
-> ***Grupo 15***
+> ***Grupo 14***
 
 RA | Nome | IEs
 --- | --- | ---
@@ -171,7 +171,7 @@ RA | Nome | IEs
 `1072012840` | `Odair Teixeira` | `Unisul`
 `122011169` | `Eduardo Rodrigues Bitencourt` | `Unidociesc Joinville`
 
-> ***Grupo 16***
+> ***Grupo 15***
 
 RA | Nome | IEs
 --- | --- | ---

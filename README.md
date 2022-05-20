@@ -95,16 +95,15 @@ RA | Nome | IEs
 
 RA | Nome | IEs
 --- | --- | ---
-`1221110338` | `Gabriel de Melo Gonçalves` | `UNA (Joinville)`
-`92010690` | `Warlley Marques` | `UNA`
-`92010678` | `Italo José Ribeiro Evangelista` |
-`652110050` | `Daniela Laux` | `unisul itajai`
-`92012104` | `Luis Filipe Damásio` | `UNA (Sete Lagoas)`
+`1221110338` | `Gabriel de Melo Gonçalves` | `Unisociesc Joinville`
+`92010690` | `Warlley Marques Santos` | `Una Sete Lagoas`
+`92012491` | `Erick Paulo Tomaselli Santos` | `Una Sete Lagoas`
+`92010589` | `Romário Antônio de Souza` | `UNA Sete Lagoas`
 `122010501` | `Gustavo Klitzke Fagundes` | `Unisociesc Joinville`
-`92010589` | `Romário Antônio de Souza` | `UNA (Sete Lagoas)`
-`319138665` | `David Viana de Sá` | 
-`520212604` | `Carla Cristina Faria de Almeida` | `USJT (São Judas Tadeu)`
-`92012491` | `Erick Paulo Tomaselli` | `UNA (Sete lagoas)`
+`652110050` | `Daniela Laux` | `Unisul Itajai`
+`319138665` | `David Viana de Sá` | `UNA Belo Horizonte - Barreiro`
+`92012104` | `Luis Filipe Damásio` | `UNA Sete Lagoas`
+`92010678` | `Italo José Ribeiro Evangelista` | `UNA Sete Lagoas`
 
 > ***Grupo 9***
 
@@ -192,17 +191,3 @@ RA | Nome | IEs
 `1220110110` | `Jéssica Gervasi Barbosa` | `Unisociesc Anita Garibaldi`
 `91910670` | `Eric Nicolas Gomes Oliveira` | `Una Sete Lagoas`
 `92020068` | `Luccas Henrique Xavier Silva` | `Una Sete Lagoas`
-
-> ***Grupo 17***
-
-RA | Nome | IEs
---- | --- | ---
-`1221110338` | `Gabriel de Melo Gonçalves` | `Unisociesc Joinville`
-`92010690` | `Warlley Marques Santos` | `Una Sete Lagoas`
-`92012491` | `Erick Paulo Tomaselli Santos` | `Una Sete Lagoas`
-`92010589` | `Romário Antônio de Souza` | `UNA Sete Lagoas`
-`122010501` | `Gustavo Klitzke Fagundes` | `Unisociesc Joinville`
-`652110050` | `Daniela Laux` | `Unisul Itajai`
-`319138665` | `David Viana de Sá` | `UNA Belo Horizonte - Barreiro`
-`92012104` | `Luis Filipe Damásio` | `UNA Sete Lagoas`
-`92010678` | `Italo José Ribeiro Evangelista` | `UNA Sete Lagoas`

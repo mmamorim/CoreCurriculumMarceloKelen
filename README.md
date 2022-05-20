@@ -97,9 +97,9 @@ RA | Nome | IEs
 `1221110338` | `Gabriel de Melo Gonçalves` | `UNA (Joinville)`
 `92010690` | `Warlley Marques` | `UNA`
 `92010678` | `Italo José Ribeiro Evangelista` |
-`652110050` | `Daniela Laux` | 
+`652110050` | `Daniela Laux` | `unisul itajai`
 `92012104` | `Luis Filipe Damásio` | `UNA (Sete Lagoas)`
-`122010501` | `Gustavo Klitzke Fagundes` | 
+`122010501` | `Gustavo Klitzke Fagundes` | `Unisociesc Joinville`
 `92010589` | `Romário Antônio de Souza` | `UNA (Sete Lagoas)`
 `319138665` | `David Viana de Sá` | 
 `520212604` | `Carla Cristina Faria de Almeida` | `USJT (São Judas Tadeu)`
@@ -126,7 +126,7 @@ RA | Nome | IEs
 `1072020788` | `Alexandre Pacheco Carara Gomes` | `Unisul/Tubarão`
 `1072012463` | `Edymar Freitas Goulart` | `Unisul/Tubarão`
 `1072012742` | `Douglas Vieira Rodrigues` | `Unisul/Tubarão`
- | `Hugo Daniel Baggio Gonzales` | `Unisul/Tubarão`
+`1072021092` | `Hugo Daniel Baggio Gonzales` | `Unisul/Tubarão`
 
 > ***Grupo 11***
 
@@ -174,7 +174,8 @@ RA | Nome | IEs
 > ***Grupo 15***
 
 RA | Nome | IEs
---- | --- | ---`772682018` | `Djonathas Bitencourt Matos` | `UniAges`
+--- | --- | ---
+`772682018` | `Djonathas Bitencourt Matos` | `UniAges`
 `810542020` | `Matheus Santos Nilo` | `UniAges`
 `791502019` | `Julia Ferreira Macedo` | `Uniages`
 `807582020` | `Pedro Ferreira Macedo` | `Uniages`
@@ -185,7 +186,8 @@ RA | Nome | IEs
 > ***Grupo 16***
 
 RA | Nome | IEs
---- | --- | ---`1072012496` | `Davi Fernandes Pereira` | `Unisul`
+--- | --- | ---
+`1072012496` | `Davi Fernandes Pereira` | `Unisul`
 `1220112472` | `Alisson Haag Reginaldo` | `unisociesc Joinville`
 `122015152` | `Guylherme sychoski kuhnen` | `unisociesc Joinville`
 `1220111345` | `Ademir Wilson da Cruz Sperotto` | `Unisociesc Joinville`
@@ -195,7 +197,8 @@ RA | Nome | IEs
 > ***Grupo 17***
 
 RA | Nome | IEs
---- | --- | ---`1220111405` | `Jean Felipe May` | `Unisociesc Anita Garibaldi`
+--- | --- | ---
+`1220111405` | `Jean Felipe May` | `Unisociesc Anita Garibaldi`
 `1220110110` | `Jéssica Gervasi Barbosa` | `Unisociesc Anita Garibaldi`
 `91910670` | `Eric Nicolas Gomes Oliveira` | `Una Sete Lagoas`
 `92020068` | `Luccas Henrique Xavier Silva` | `Una Sete Lagoas`
@@ -203,7 +206,8 @@ RA | Nome | IEs
 > ***Grupo 18***
 
 RA | Nome | IEs
---- | --- | ---`1221110338` | `Gabriel de Melo Gonçalves` | `Unisociesc Joinville`
+--- | --- | ---
+`1221110338` | `Gabriel de Melo Gonçalves` | `Unisociesc Joinville`
 `92010690` | `Warlley Marques Santos` | `Una Sete Lagoas`
 `92012491` | `Erick Paulo Tomaselli Santos` | `Una Sete Lagoas`
 `92010589` | `Romário Antônio de Souza` | `UNA Sete Lagoas`
